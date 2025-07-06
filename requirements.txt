@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy
+matplotlib==3.10.0
+requests==2.32.3
+pyod==2.0.5
+requests==2.32.3
+SQLAlchemy==2.0.41
+psycopg2==2.9.10

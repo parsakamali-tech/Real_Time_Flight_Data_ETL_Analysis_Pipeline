@@ -1,0 +1,101 @@
+name,iata_code,icao_code
+Hi Fly,5K,HFY
+Air France,AF,AFR
+Malaysia Airlines,MH,MAS
+Oman Air,WY,OMA
+SriLankan Airlines,UL,ALK
+Turkish Airlines,TK,THY
+Qatar Airways,QR,QTR
+KLM,KL,KLM
+Firefly,FY,FFM
+Ethiopian Airlines,ET,ETH
+Myanmar Airways International,8M,MMA
+Sharp Airlines,SH,SHA
+Yeti Airlines,YT,NYT
+Aer Lingus,EI,EIN
+Qatar Airways,QR,QTR
+British Airways,BA,BAW
+QantasLink,QLK,QLK
+Shenzhen Airlines,ZH,CSZ
+Shandong Airlines,SC,CDG
+Delta Air Lines,DL,DAL
+Virgin Atlantic,VS,VIR
+Air Europa,UX,AEA
+SAS,SK,SAS
+LATAM Airlines,LA,LAN
+Alitalia,AZ,AZA
+Air France,AF,AFR
+Southwest Airlines,WN,SWA
+UPS Airlines,5X,UPS
+Frontier Airlines,F9,FFT
+Volaris,Y4,VOI
+Delta Air Lines,DL,DAL
+WestJet,WS,WJA
+Korean Air,KE,KAL
+Air France,AF,AFR
+UPS Airlines,5X,UPS
+Southwest Airlines,WN,SWA
+Air Canada,AC,ACA
+United Airlines,UA,UAL
+Air New Zealand,NZ,ANZ
+Delta Air Lines,DL,DAL
+Virgin Atlantic,VS,VIR
+China Eastern Airlines,MU,CES
+Tianjin Airlines,GS,GCR
+West Air (China),PN,CHB
+Air China LTD,CA,CCA
+Shenzhen Airlines,ZH,CSZ
+Malaysia Airlines,MH,MAS
+American Airlines,AA,AAL
+Garuda Indonesia,GA,GIA
+Etihad Airways,EY,ETD
+Japan Airlines,JL,JTL
+Wings Air (Indonesia),IW,WON
+Beijing Capital Airlines,JD,CBJ
+Tianjin Airlines,GS,GCR
+Shenzhen Airlines,ZH,CSZ
+China Eastern Airlines,MU,CES
+Xiamen Airlines,MF,CXA
+China Southern Airlines,CZ,CSN
+Juneyao Airlines,HO,DKH
+Shenzhen Airlines,ZH,CSZ
+Sichuan Airlines,3U,CSC
+China Eastern Airlines,MU,CES
+Xiamen Airlines,MF,CXA
+China Southern Airlines,CZ,CSN
+Air China LTD,CA,CCA
+Shenzhen Airlines,ZH,CSZ
+Shandong Airlines,SC,CDG
+China United Airlines,KN,CUA
+China Eastern Airlines,MU,CES
+Chongqing Airlines,OQ,CQN
+China Eastern Airlines,MU,CES
+Sichuan Airlines,3U,CSC
+China United Airlines,KN,CUA
+Air China LTD,CA,CCA
+Shenzhen Airlines,ZH,CSZ
+China Eastern Airlines,MU,CES
+Shandong Airlines,SC,CDG
+China Eastern Airlines,MU,CES
+Garuda Indonesia,GA,GIA
+Air France,AF,AFR
+Virgin Australia,VA,VOZ
+Ethiopian Airlines,ET,ETH
+Air China LTD,CA,CCA
+Qantas,QF,QFA
+Juneyao Airlines,HO,DKH
+Singapore Airlines,SQ,SIA
+Singapore Airlines,SQ,SIA
+Virgin Australia,VA,VOZ
+SAS,SK,SAS
+Garuda Indonesia,GA,GIA
+Air India,AI,AIC
+Virgin Australia,VA,VOZ
+Bangkok Airways,PG,BKP
+Air New Zealand,NZ,ANZ
+Malindo Air,OD,MXD
+United Airlines,UA,UAL
+SAS,SK,SAS
+Garuda Indonesia,GA,GIA
+Air India,AI,AIC
+Singapore Airlines,SQ,SIA
