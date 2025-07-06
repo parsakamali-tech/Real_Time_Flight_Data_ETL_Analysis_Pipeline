@@ -130,7 +130,7 @@ Install the necessary Python packages:
 
 **Parsa Kamali Shahry**  
  Aspiring Data Engineer  
- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+ GitHub: [https://github.com/parsakamali-tech](https://github.com/parsakamali-tech)
  Email: parsakamlibsns@outlook.com
 
 ---
