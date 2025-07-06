@@ -132,6 +132,7 @@ Install the necessary Python packages:
  Aspiring Data Engineer  
  GitHub: [https://github.com/parsakamali-tech](https://github.com/parsakamali-tech)
  Email: parsakamlibsns@outlook.com
+ LinkedIn https://www.linkedin.com/in/parsa-kamali-243934305/
 
 ---
 
